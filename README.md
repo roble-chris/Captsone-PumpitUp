@@ -1,1 +1,1 @@
-# Captsone-PumpitUp
+# Capstone Project-PumpitUp
