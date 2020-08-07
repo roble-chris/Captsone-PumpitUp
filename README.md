@@ -26,7 +26,7 @@ This notebook contains the application of several supervised machine learning cl
 - Decision Trees
 - Random Forest
 - AdaBoost
-- XgBoost
+- XGBoost
 
 The most promissing models were optimized via Hyperparamter tuning applying a Randomized Grid Search. Further the minority class was oversampled by applying the Synthetic Minority Oversampling Technique (SMOTE) which further improved the results. 
 
