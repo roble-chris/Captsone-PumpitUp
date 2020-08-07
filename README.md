@@ -29,14 +29,18 @@ This notebook contains the application of several supervised machine learning cl
 - XgBoost
 
 The most promissing models were optimized via Hyperparamter tuning applying a Randomized Grid Search. Further the minority class was oversampled by applying the Synthetic Minority Oversampling Technique (SMOTE) which further improved the results. 
- 
-* **README.md**
-* **data**
 
-Folder to store the relevant data.
-* **figures**
+* **Further Files**
 
-Folder to store the figures produced within the project.
-* **Pump_it_up.ppt**
+`README.md`
 
-A powerpoint presentation which contains the obtained results of the analysis
+`data`
+* Folder which contains relevant data
+
+`figures`
+* Folder which contains relevant figures from the analysis
+
+`Pump_it_up.ppt`
+* A powerpoint presentation which contains the obtained results of the analysis
+
+
