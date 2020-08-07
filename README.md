@@ -11,6 +11,7 @@ This Repository contains the final project that I conducted within the Data Scie
 The repository contains the following notebooks:
 
 * **#1 Data Preprocessing**
+
 This notebook contains all necessary steps to be conducted prior to the predictive modelling which includes:
   - Importation of the Dataset
   - Data Cleaning
@@ -18,6 +19,7 @@ This notebook contains all necessary steps to be conducted prior to the predicti
   - Feature Engineering
 
 * **#2 Predictive Modelling**
+
 This notebook contains the application of several supervised machine learning classification algorithms on the preprocessed Dataset. TheseThe are:
 - Dummy Classifier
 - Logistic Regression
@@ -25,12 +27,16 @@ This notebook contains the application of several supervised machine learning cl
 - Random Forest
 - AdaBoost
 - XgBoost
-The most promissing models were optimzed via Hyperparamter tuning applying a Randomized Grid Search. Further the minority class was oversampled by applying the Synthetic Minority Oversampling Technique (SMOTE) which further improved the results. 
+
+The most promissing models were optimized via Hyperparamter tuning applying a Randomized Grid Search. Further the minority class was oversampled by applying the Synthetic Minority Oversampling Technique (SMOTE) which further improved the results. 
  
 * **README.md**
 * **data**
+
 Folder to store the relevant data.
 * **figures**
+
 Folder to store the figures produced within the project.
 * **Pump_it_up.ppt**
+
 A powerpoint presentation which contains the obtained results of the analysis
