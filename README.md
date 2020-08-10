@@ -28,7 +28,7 @@ This notebook contains the application of several supervised machine learning cl
 - AdaBoost
 - XGBoost
 
-The most promissing models were optimized via Hyperparamter tuning applying a Randomized Grid Search. Further the minority class was oversampled by applying the Synthetic Minority Oversampling Technique (SMOTE) which further improved the results. 
+The most promissing models were optimized via Hyperparamter tuning applying a Randomized Grid Search. Further the minority class was oversampled by applying the Synthetic Minority Oversampling Technique (SMOTE) which further improved the results. Finally the XGBoost model with a precision of 80 % delivered the most promising results.
 
 * **Further Files**
 
@@ -40,7 +40,7 @@ The most promissing models were optimized via Hyperparamter tuning applying a Ra
 `figures`
 * Folder which contains relevant figures from the analysis
 
-`Pump_it_up.ppt`
-* A powerpoint presentation which contains the obtained results of the analysis
+`Presentation_PumpItUP_Robledo.pdf`
+* A pdf which contains the presentation of the project
 
 
